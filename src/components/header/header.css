@@ -58,12 +58,15 @@ header {
   header {
     height: 68vh;
   }
+  /* .me {
+    height: 100%;
+  } */
 }
 /*==========MEDIA QUERIES(SMALL DEVICES)=========*/
 @media screen and (max-width: 600px) {
-  /* header {
+  header {
     height: 100vh;
-  } */
+  }
   .header_socials,
   .scroll_down {
     display: none;
