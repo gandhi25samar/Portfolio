@@ -1,6 +1,6 @@
 import React from "react";
 import { MdOutlineEmail, MdOutlineWhatsapp } from "react-icons/md";
-import { BsInstagram } from "react-icons/bs";
+import { BsLinkedin } from "react-icons/bs";
 
 import "./contact.css";
 const Contact = () => {
@@ -23,11 +23,11 @@ const Contact = () => {
             </a>
           </article>
           <article className="contact_option">
-            <BsInstagram className="contact_option-icon" />
-            <h4>Instagram</h4>
-            <h5>samarjeet_singh25</h5>
+            <BsLinkedin className="contact_option-icon" />
+            <h4>LinkedIn</h4>
+            <h5>Samarjeet Singh Gandhi</h5>
             <a
-              href="https://ig.me/samarjeet_singh25/"
+              href="https://www.linkedin.com/in/samarjeet-singh-gandhi-4299b6224/"
               target="_blank"
               rel="noreferrer"
             >
